@@ -4,7 +4,8 @@
 <h2 align="center">Счётчик Гейгера</h2>
 <img src="https://github.com/chevichelov/GEIGER_COUNTER/blob/main/IMG/MAIN.jpg" />
 
-
+<h2 align="center">Монтажная схема</h2>
+<img src="https://github.com/chevichelov/GEIGER_COUNTER/blob/main/IMG/SCHEME.jpg?raw=true" />
 
 <h2 align="center">Видео инструкция</h2>
 <div align="center">
